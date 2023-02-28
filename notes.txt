@@ -1,0 +1,4 @@
+# Steps
+- python3.11 -m venv venv
+- pip install sqlmodel
+- pip freeze > requirements.txt
